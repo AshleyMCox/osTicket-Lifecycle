@@ -39,6 +39,46 @@ Issue Summary: Entire mobile online banking is down
 Details: Customers are reporting they are getting a 404 error when browsing to online banking
 Create Ticket
 
+![68747470733a2f2f692e696d6775722e636f6d2f4737416b3675492e706e67](https://github.com/user-attachments/assets/8d593252-3ecc-4543-a316-3f0436769fc4)
+![68747470733a2f2f692e696d6775722e636f6d2f556469506331732e706e67](https://github.com/user-attachments/assets/3f3aaf7b-1b4a-460f-85a8-77aea5a9def3)
+
+## Step 2: Assignment and Communication
+Sign into osTicket as an Agent
+
+We created jane.doe in previous tutorial, log in with those credentials.
+
+Select the ticket we created in Step 1.
+![68747470733a2f2f692e696d6775722e636f6d2f7344677a5333362e706e67](https://github.com/user-attachments/assets/4b35658f-fddb-438a-963d-8cda7b694f84)
+
+Priority: Emergency.
+
+Mobile online banking down can lead to losses in revenue for the company.
+
+Assigned to: Jane Doe
+SLA Plan: SEV-A
+Business impacting, critical incident
+
+Department: System Administrators
+Sys Admins responsible for mobile banking infrastructure
+Response text box: Coordinating with Sys Admin Team to bring mobile banking back online.
+
+Select Post Reply
+![68747470733a2f2f692e696d6775722e636f6d2f4475336b6d75692e706e67](https://github.com/user-attachments/assets/a61ed346-1e19-4d07-b964-21c21072baa1)
+![68747470733a2f2f692e696d6775722e636f6d2f796739545865702e706e67](https://github.com/user-attachments/assets/fff93585-39be-4572-bff8-d48769d5d87a)
+ ## 𝐒𝐭𝐚𝐠𝐞 𝟑: 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐭𝐡𝐞 𝐈𝐬𝐬𝐮𝐞
+ 
+On the back end, Jane is working with the System Adminstrator team to resolve the issue.
+## 𝐒𝐭𝐚𝐠𝐞 𝟒: 𝐑𝐞𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧
+Once the issue is resolved, head back to the ticket and update the end user.
+
+Response text box: Jerry from System Engineering found and connected a failed load balancer. Mobile banking should be back up.
+
+Ticket Status: Resolved
+
+Select Post Reply
+The ticket should now be on the "closed" tab since it has been resolved.
+
+
 
 
 
