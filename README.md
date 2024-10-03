@@ -78,6 +78,8 @@ Ticket Status: Resolved
 Select Post Reply
 The ticket should now be on the "closed" tab since it has been resolved.
 
+![68747470733a2f2f692e696d6775722e636f6d2f657438683635312e706e67](https://github.com/user-attachments/assets/6dac8dc6-e89a-40d4-9795-19184cc7a44a)
+![68747470733a2f2f692e696d6775722e636f6d2f54556f335430512e706e67](https://github.com/user-attachments/assets/e67871bd-381f-438e-8111-613c914402eb)
 
 
 
